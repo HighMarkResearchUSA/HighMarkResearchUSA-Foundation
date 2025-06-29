@@ -4,7 +4,9 @@
 
 ## 📘 Overview
 
-**HighMark Research USA** is a private digital research trust founded with the mission to **advance cross-border strategic intelligence, decentralized research, and knowledge assets** in service of global innovation and institutional foresight.
+**HighMark Research USA** is a private digital research trust founded with the mission to **advance cross-border strategic intelligence, decentralized research, and knowledge assets** in service of global innovation and institutional foresight. 
+
+**HighMark Research USA operates as an independent, digitally governed think tank focused on strategic intelligence, surveillance frameworks, and civil-military policy research.**
 
 Formally established in Delaware, USA, and made public on **June 29, 2025**, the trust operates across sovereign-free knowledge domains with no allegiance to corporate or political bias. It serves as a **custodian of strategic whitepapers, digital IP, and autonomous research models**, which may be licensed, assigned, or partnered globally with startups, sovereign institutions, and defense-aligned innovators.
 
